@@ -1,0 +1,2 @@
+# SiteBlocker
+blacklist sites
